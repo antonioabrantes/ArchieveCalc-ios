@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ArquivoCalc
+
+  Created by Macintosh HD on 24/12/19.
+  Copyright © 2019 Macintosh HD. All rights reserved.
+*/
+
+"lang" = "en";
+"CalcFileParam"  = "Calculate file parameters";
+"CalcLinearMeter"  = "Calculate linear meter";

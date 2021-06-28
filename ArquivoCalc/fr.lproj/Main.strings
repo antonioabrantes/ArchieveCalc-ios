@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Italian"; ObjectID = "7CF-jC-00Y"; */
+"7CF-jC-00Y.normalTitle" = "Italian";
+
+/* Class = "UIViewController"; title = "Language"; ObjectID = "9A3-WF-P2M"; */
+"9A3-WF-P2M.title" = "Langue";
+
+/* Class = "UILabel"; text = "lblMetroLinear"; ObjectID = "D3h-9d-o8h"; */
+"D3h-9d-o8h.text" = "mètre linéaire";
+
+/* Class = "UIButton"; normalTitle = "French"; ObjectID = "FD9-ZH-atL"; */
+"FD9-ZH-atL.normalTitle" = "français";
+
+/* Class = "UIBarButtonItem"; title = "Lang"; ObjectID = "Q27-wB-v5V"; */
+"Q27-wB-v5V.title" = "Langue";
+
+/* Class = "UIButton"; normalTitle = "Espanõl"; ObjectID = "UR0-Eu-8kX"; */
+"UR0-Eu-8kX.normalTitle" = "Espanõl";
+
+/* Class = "UINavigationItem"; title = "AquivoCalc"; ObjectID = "VLh-Na-79p"; */
+"VLh-Na-79p.title" = "AquivoCalc";
+
+/* Class = "UILabel"; text = "lblParametros"; ObjectID = "X77-vE-YBf"; */
+"X77-vE-YBf.text" = "paramètres";
+
+/* Class = "UIBarButtonItem"; title = "Info"; ObjectID = "au5-jf-olg"; */
+"au5-jf-olg.title" = "Information";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "f1j-sI-uPw"; */
+"f1j-sI-uPw.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Deutsch"; ObjectID = "hxH-Ve-fsX"; */
+"hxH-Ve-fsX.normalTitle" = "Deutsch";
+
+/* Class = "UIBarButtonItem"; title = "Home"; ObjectID = "jDb-ms-oKC"; */
+"jDb-ms-oKC.title" = "Accueil";
+
+/* Class = "UIButton"; normalTitle = "Português"; ObjectID = "kDz-1J-aHm"; */
+"kDz-1J-aHm.normalTitle" = "Português";
